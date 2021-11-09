@@ -7,9 +7,18 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@jiaminghi/data-view": "^2.10.0",
+    "ace-builds": "^1.4.13",
+    "axios": "^0.24.0",
+    "echarts": "^5.2.1",
+    "element-ui": "^2.15.6",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
     "core-js": "^3.6.5",
+    "vue-draggable-resizable": "^2.3.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vue-xlsx-table": "^1.2.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
